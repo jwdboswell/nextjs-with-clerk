@@ -13,5 +13,14 @@
 `Would you like to use Turbopack for `next dev`?  No`  
 `Would you like to customize the import alias (`@/*` by default)? No`
 
+### Install Shadcn
+`npx shadcn@latest init`
+
+### Install Shadcn Components
+`npx shadcn@latest add button card`
+
 ### Navigate to your directory
 `cd nextjs-with-clerk`
+
+### Run the app
+`npm run dev`
